@@ -33,3 +33,5 @@ function mergeSort(arr, cmp) {
         }
     }
 }
+
+module.exports = mergeSort;

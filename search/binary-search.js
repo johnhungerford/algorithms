@@ -31,3 +31,4 @@ function binarySearch(a, n, lo, hi, opt1, opt2) {
     }   
 }
 
+module.exports = binarySearch;

@@ -37,3 +37,5 @@ function mergeSortRecursive(arrin) {
 
 	return arrin;
 }
+
+module.exports = mergeSortRecursive;

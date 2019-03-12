@@ -46,3 +46,5 @@ function mergeSortLegible(arr, cmp) {
 
     return arr;
 }
+
+module.exports = mergeSortLegible;
